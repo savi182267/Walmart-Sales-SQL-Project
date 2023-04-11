@@ -1,0 +1,1 @@
+While importing the Walmart Sales Dataset in SQL Server one row was dropped because of the negative value present in the Temperature column, so there maybe be a slight change in your analysis vs mine.
